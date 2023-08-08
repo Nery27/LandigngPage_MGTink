@@ -5,7 +5,7 @@ p {margin: 0;}
 html, body{
  font-family: 'Noticia Text', serif;
    font-size: 100%;
-   background:#fff; 
+   background:#111; 
 }
 body a{
 	transition:0.5s all;
@@ -158,7 +158,7 @@ ul.nav-list li a:hover { color:#333333; border-bottom: 3px solid #000000; paddin
 	text-decoration:none;
 }
 .about_right {
-    background-color: #f2efe5;
+    background-color: #222;
     display: block;
     height: 525px;
     overflow: hidden;
@@ -184,13 +184,13 @@ ul.nav-list li a:hover { color:#333333; border-bottom: 3px solid #000000; paddin
 	transition: 0.8s;
 }
 .about_text h3 {
-  color: #000000;
+  color: #fff;
   font-size: 16px;
   line-height: 20px;
   padding: 35px 0 20px;
 }
 .about_right p {
-  color: #000000;
+  color: #fff;
   font-size: 14px;
   line-height: 20px;
   text-align: left;
