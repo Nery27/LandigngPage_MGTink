@@ -45,7 +45,7 @@ button {
     font-size: 40px;
 }
 .header {
-	background: url(../images/banner.jpg)no-repeat center top;
+	background: url(../images/banner.jpeg)no-repeat center top;
 	background-size: 100% 100%;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
@@ -243,7 +243,7 @@ ul.nav-list li a:hover { color:#333333; border-bottom: 3px solid #000000; paddin
 	top:0;
 	bottom:0;
 	width:20%;
-	background:rgba(231, 229, 208, 0.68);
+	background:#333;
 	transition:all 0.5s linear;
 	-moz-transition:all 0.5s linear;
 	-ms-transition:all 0.5s linear;
@@ -443,7 +443,7 @@ i.like{
 	text-align: center;
 }
 .team-grid-3{
-	background-color: #ccc8b6;
+	background-color: #242323;
 	padding:6em 3em 0;
 	text-align: center;
 	min-height: 505px;
@@ -451,14 +451,14 @@ i.like{
 	overflow: hidden;
 }
 .team-grid-3 h3 {
-    color: #000000;
-    font-size: 23px;
+    color: #9a977a;
+    font-size: 30px;
     font-weight: bold;
     margin-bottom: 35px;
     text-transform: uppercase;
 }
 .team-grid-3 p {
-    color: #000000;
+    color: #9a977a;
     font-size: 14px;
     line-height: 20px;
     text-align: left;
@@ -542,7 +542,7 @@ ul.social li a i.google:hover{
 	left: -27px;
 }
 .team-grid-5{
-	background: #ccc8b6;
+	background: #333;
 	padding:6em 3em 0;
 	text-align: center;
 	min-height: 505px;
@@ -563,7 +563,7 @@ ul.social li a i.google:hover{
 }
 /***--- Newsletter ---***/
 .newsletter_grid{
-	background:#f2efe5;
+	background:#333;
 	padding:8em 6em 0;
 	min-height:505px;
 }
@@ -653,7 +653,7 @@ i.tw_icon{
 	background: url(../images/icons.png)no-repeat -89px -162px;
 }
 .twitter-div p {
-    color: #f2efe5;
+    color: #9a977a;
     font-size: 18px;
     font-style: italic;
     line-height: 25px;
@@ -756,7 +756,7 @@ ul.popup_links.g_links {
 .mobile-display-off{display: block;}
 /*--contact--*/
 .contact{
-	background:#e7e5d0;
+	background:#333;
 	padding:8em 0;
 }
 .contact-form {
