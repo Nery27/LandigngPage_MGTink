@@ -78,7 +78,7 @@ ul.nav-list li a {
 	        text-decoration: none; 
 			text-transform: uppercase;
 	        color:#000;
-	        font-size:30px;
+	        font-size:25px;
 	        -webkit-transition: all 0.5s ease;
 			-moz-transition: all 0.5s ease;
 			-o-transition: all 0.5s ease;
@@ -171,7 +171,7 @@ ul.nav-list li a:hover { color:#333333; border-bottom: 3px solid #000000; paddin
     width: 80%;
 }
 .about_text img {
-    margin: 90px auto 0;
+    margin: 30px auto 0;
 }
 .about_text img:hover{
 	transform: rotateY(360deg);
@@ -185,13 +185,13 @@ ul.nav-list li a:hover { color:#333333; border-bottom: 3px solid #000000; paddin
 }
 .about_text h3 {
   color: #fff;
-  font-size: 16px;
-  line-height: 20px;
+  font-size: 35px;
+  line-height: px;
   padding: 35px 0 20px;
 }
 .about_right p {
   color: #fff;
-  font-size: 14px;
+  font-size: 16px;
   line-height: 20px;
   text-align: left;
 }
@@ -542,7 +542,7 @@ ul.social li a i.google:hover{
 	left: -27px;
 }
 .team-grid-5{
-	background: #333;
+	background: #AFAc9c;
 	padding:6em 3em 0;
 	text-align: center;
 	min-height: 505px;
