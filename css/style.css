@@ -443,7 +443,7 @@ i.like{
 	text-align: center;
 }
 .team-grid-3{
-	background-color: #242323;
+	background-color: #AFAc9c;
 	padding:6em 3em 0;
 	text-align: center;
 	min-height: 505px;
@@ -451,15 +451,15 @@ i.like{
 	overflow: hidden;
 }
 .team-grid-3 h3 {
-    color: #9a977a;
+    color: #000000;
     font-size: 30px;
     font-weight: bold;
     margin-bottom: 35px;
     text-transform: uppercase;
 }
 .team-grid-3 p {
-    color: #9a977a;
-    font-size: 14px;
+    color: #000000;
+    font-size: 16px;
     line-height: 20px;
     text-align: left;
 }
@@ -557,7 +557,7 @@ ul.social li a i.google:hover{
 }
 .team-grid-5 p{
     color: #000000;
-    font-size: 14px;
+    font-size: 16px;
     line-height: 20px;
     text-align: left;
 }
@@ -596,7 +596,7 @@ ul.social li a i.google:hover{
 	outline: none;
 	font-size: 13px;
 	padding: 12px;
-	color:#9a977a;
+	color:#fffffc;
 	width:100%;
 	text-transform: uppercase;
 	display: block;
@@ -653,8 +653,8 @@ i.tw_icon{
 	background: url(../images/icons.png)no-repeat -89px -162px;
 }
 .twitter-div p {
-    color: #9a977a;
-    font-size: 18px;
+    color: #ffffff;
+    font-size: 22px;
     font-style: italic;
     line-height: 25px;
     margin-top: 25px;
@@ -814,8 +814,8 @@ ul.popup_links.g_links {
 	text-align:center;
 }
 .contact-left h4 {
-    color: #000;
-    font-size: 16px;
+    color: #9a977a;
+    font-size: 20px;
     line-height: 22px;
     margin: 75px 0;
     padding: 0 60px;
@@ -832,19 +832,19 @@ ul.contact-list-one {
 	text-align:left;
 }
 ul.contact-list-one h5, ul.contact-list-two h5{
-	color:#000;
+	color:9a977a;
 	font-size:1em;
 	text-transform:uppercase;
 	font-weight:bold;
 }
 ul.contact-list-one li, ul.contact-list-two li{
-	color:#000;
+	color:#9a977a;
 	font-size:0.95em;
 	line-height: 1.8em;
 	text-transform:uppercase;
 }
 .contact-list-one li a {
-    color: #000000;
+    color: #096df0;
     font-weight: bold;
     text-transform: lowercase;
 }
